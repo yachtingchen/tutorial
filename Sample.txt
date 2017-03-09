@@ -8,6 +8,7 @@ const passport = require('passport');
 const winston = require('winston');
 const Mailer = require('./utils/mailer');
 const dateTimeHelper = require('./utils/dateTimeHelper');
+//I am git2
 //const { graphql, buildSchema } = require('graphql');
 
 const datastore = require('@google-cloud/datastore')(); //connect to the database
